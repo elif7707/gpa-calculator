@@ -35,7 +35,7 @@ int main() {
                 printf("Insufficient GPA for technician.\n");
             }
         } else {
-            printf("Invalid job code.\n");
+            printf("Invalid job code. Please enter valid job code (E or T)\n");
         }
     }
         return 0;
